@@ -1,0 +1,2 @@
+# Manifest
+Veritas aequitas.
